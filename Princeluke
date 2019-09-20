@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am princeluke on github.
+  * I am bythewoods (https://keybase.io/bythewoods) on keybase.
+  * I have a public key ASAS4daWFFjLipbbo3q1DSAekHMsjVFxvgqvspHXBni8VQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012012e1d6961458cb8a96dba37ab50d201e90732c8d5171be0aafb291d70678bc550a",
+      "host": "keybase.io",
+      "kid": "012012e1d6961458cb8a96dba37ab50d201e90732c8d5171be0aafb291d70678bc550a",
+      "uid": "1f2c675839566d95e2b72f9728ef5919",
+      "username": "bythewoods"
+    },
+    "merkle_root": {
+      "ctime": 1568965910,
+      "hash": "5eb55a412ad3dbeded1ced9e897681ebf3a8f971d22f27e42a290e185333663313972ef4eac4ca130a08547a0a0f32bbcf3f0fe956eaf0a1dc1554b37afd0d0f",
+      "hash_meta": "472c7e07893939a81a5cd7ddd5eadc9ae01ef1baeda6903d4b866e27a16c2a1e",
+      "seqno": 7631310
+    },
+    "service": {
+      "entropy": "b+3Cm/BwGTamqcqDE4MU2XDp",
+      "name": "github",
+      "username": "princeluke"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1568966064,
+  "expire_in": 504576000,
+  "prev": "c752d135ea36f2828371d11395eeedd687942e59e0744e6ff44d2a7e3443ca5d",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASAS4daWFFjLipbbo3q1DSAekHMsjVFxvgqvspHXBni8VQo](https://keybase.io/bythewoods), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEuHWlhRYy4qW26N6tQ0gHpBzLI1Rcb4Kr7KR1wZ4vFUKp3BheWxvYWTESpcCBMQgx1LRNeo28oKDcdETle7t1oeULlngdE5v9E0qfjRDyl3EIHmcunYH7tATNxlrf78KO3OlXTQVYO4nQwVjHqyLpPm/AgHCo3NpZ8RAB2UbSlc/MfPOUCMXcmXkdwZofv7rTy0pEkl2/lM+76DllLq8gMr0f/U6QAOiPer4woz4kOiVbWCJx0CtNhJJCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAqhB3ZTw4abj3kN8JeZ5N4v3ok0lc9syHMPFlmFOpk7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/bythewoods
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id bythewoods
+```
